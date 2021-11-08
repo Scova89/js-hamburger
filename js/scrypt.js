@@ -1,2 +1,2 @@
-const elemento = document.querySelector("fas fa-bars")
+const elemento = document.querySelector(".fas fa-bars")
 
