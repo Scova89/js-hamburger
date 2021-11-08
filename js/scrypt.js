@@ -1,5 +1,9 @@
 const elemento = document.querySelector(".fas fa-bars")
 
-.addEventListener("click", function(".fas fa-bars") {
+console.log
+
+.addEventListener("click", function() {
     document.querySelector(".hamburger-menu");
   });
+
+  
